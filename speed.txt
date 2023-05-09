@@ -1,0 +1,19 @@
+utf-8: <meta charset="UTF-8">
+
+magyar: <html lang="hu">
+
+böngésző címsor neve: <title>Cím</title>
+
+css hivatkozás: <link rel="stylesheet" href="style.css">
+
+js hivatkozás: <script src="script.js"></script>
+
+kép: <img src="kep.jpg" alt="kep" title="kep">
+
+link/hivatkozás: <a href="https://www.pelda.hu">Példa</a>
+
+-||- új ablakban: <a href="https://www.pelda.hu" target="_blank">Példa</a>
+
+nagybetűs szöveg: text-transform: uppercase;
+
+vízszintesen sorkizárt: text-align: justify;
